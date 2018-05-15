@@ -1,0 +1,7 @@
+/**
+ * Apartment
+ */
+public class Apartment {
+
+    
+}
